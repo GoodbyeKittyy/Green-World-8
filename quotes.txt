@@ -7091,3 +7091,4 @@ Quote on |Wed, 07 Aug 2024 06:10:05 GMT| :  A leader or a man of action in a cri
 Quote on |Wed, 07 Aug 2024 06:32:08 GMT| :  Fame usually comes to those who are thinking about something else. - Oliver Wendell Holmes Jr.
 Quote on |Wed, 07 Aug 2024 06:44:21 GMT| :  This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature. - Don DeLillo
 Quote on |Wed, 07 Aug 2024 06:50:23 GMT| :  It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not. - Mignon McLaughlin
+Quote on |Wed, 07 Aug 2024 06:56:34 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
